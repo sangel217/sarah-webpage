@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+.col-lg-4 {
+  float: left;
+  border: 5px solid blue;
+}
+
+h1 {
+  color: magenta;
+}
+img {
+  width: 300px;
+  length: 400px;
+}
+ol p {
+  font-style: italic;
+}
